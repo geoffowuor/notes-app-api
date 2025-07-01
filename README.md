@@ -1,1 +1,1 @@
-API for socal notes app
+API for social notes app
